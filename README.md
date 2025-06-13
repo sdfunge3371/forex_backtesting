@@ -1,1 +1,9 @@
-# forex_backtesting
+# 基礎外匯策略回測平台
+
+## 目前策略
+- **動能策略**
+- **逆勢策略**
+- **布林通道策略**
+---
+- **開啟外匯策略fast api**
+  - uvicorn main:app --port 8000
